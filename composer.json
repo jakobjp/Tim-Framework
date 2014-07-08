@@ -1,0 +1,19 @@
+{
+    "name": "tim/framework",
+    "description": "Tim Framework",
+    "authors": [
+        {
+            "name": "Jakob Jensen",
+            "email": "mail@jakobjp.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "Framework": "src/"
+        }
+    }
+}
